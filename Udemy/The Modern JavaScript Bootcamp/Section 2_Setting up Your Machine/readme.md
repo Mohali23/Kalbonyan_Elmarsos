@@ -1,6 +1,6 @@
 # Section 2: Setting up Your Machine
 
-In this section, I prepared the development environment on my computer
+In this section, I prepared the development environment on my machine.
 
 ## 1- The first thing I did is installed [Vscode](https://code.visualstudio.com/)
 
