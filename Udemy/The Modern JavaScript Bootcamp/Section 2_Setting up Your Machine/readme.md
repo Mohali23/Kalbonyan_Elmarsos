@@ -31,3 +31,8 @@ Cmder is Console Emulator for Windows
 // Clear the terminal output
 clear
 ```
+
+```
+// Print current working directory
+pwd
+```
