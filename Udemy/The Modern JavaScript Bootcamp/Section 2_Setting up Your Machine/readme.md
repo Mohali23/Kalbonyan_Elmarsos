@@ -2,7 +2,7 @@
 
 In this section, I prepared the development environment on my computer
 
-## The first thing I did is installed [vscode](https://code.visualstudio.com/)
+## 1- The first thing I did is installed [vscode](https://code.visualstudio.com/)
 
 Visual Studio Code is a free open source text editor by Microsoft. VS Code is available for Windows, Linux, and macOS. Although the editor is relatively lightweight, it includes some powerful features that have made VS Code one of the most popular development environment tools in recent times.
 
