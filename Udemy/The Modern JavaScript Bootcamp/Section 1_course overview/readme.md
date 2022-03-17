@@ -1,6 +1,6 @@
-# Section 1: course overview
+# Section 1: Overview of JavaScript language
 
-## what is javascript:
+## What is Javascript:
 
 JavaScript is a programming language that executes on the browser. It turns static HTML web pages into interactive web pages by dynamically updating content, validating form data, controlling multimedia, animate images, and almost everything else on the web pages.
 
