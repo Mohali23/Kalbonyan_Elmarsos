@@ -34,5 +34,5 @@ clear
 
 ```
 // Print current working directory
-pwd
+pwd 
 ```
