@@ -27,7 +27,7 @@ Cmder is Console Emulator for Windows
 
 ### I also learned in this section some terminal orders 
 
-``
+```
     // Clear the terminal output
     clear
-``
+```
