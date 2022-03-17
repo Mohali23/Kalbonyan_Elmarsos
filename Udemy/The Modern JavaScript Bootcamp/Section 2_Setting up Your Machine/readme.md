@@ -23,3 +23,6 @@ Node js allows us to run JavaScript files on our machine.
 ## 3- The last thing I did is installed [Cmder](https://cmder.net/)
 
 Cmder is Console Emulator for Windows
+
+
+### I also learned in this section some terminal orders 
