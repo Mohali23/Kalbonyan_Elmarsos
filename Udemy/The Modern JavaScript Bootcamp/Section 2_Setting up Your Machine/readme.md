@@ -44,5 +44,17 @@ cd
 
 ```bash
 // Change the directory to backspace
-cd  .. 
+cd ../
+
+// Change the directory to 2 backspace
+cd ../../ 
 ```
+
+## Hello javascript 
+
+In this video I learned the first code in javascipt, this is 
+
+```bash
+// This code for print the result on terminal
+console.log('Hello World!')
+````
