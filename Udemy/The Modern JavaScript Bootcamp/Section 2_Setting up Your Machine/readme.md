@@ -36,3 +36,13 @@ clear
 // Print current working directory
 pwd 
 ```
+
+```bash
+// Change directory
+cd  
+```
+
+```bash
+// Change the directory to backspace
+cd  .. 
+```
