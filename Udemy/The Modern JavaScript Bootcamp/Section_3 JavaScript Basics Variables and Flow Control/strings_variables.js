@@ -109,7 +109,7 @@ let my&name
  */
 
 /**
- * How to create  variables?
+ * How to create String?
  * In JavaScript, there are three ways to write a string.
  * They can be written inside single quotes (' '), double quotes (" "), or backticks (` `). The type of quote used must match on both sides
  */

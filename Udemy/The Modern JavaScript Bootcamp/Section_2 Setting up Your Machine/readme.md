@@ -56,7 +56,7 @@ cd ../../
 
 ```js
 // This code for printing the result on the terminal
-console.log('Hello World!')
+console.log('Hello world')
 ```
 
 ```sh
