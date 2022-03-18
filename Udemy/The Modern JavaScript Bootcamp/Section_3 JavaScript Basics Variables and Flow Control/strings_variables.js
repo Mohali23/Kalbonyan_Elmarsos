@@ -138,3 +138,8 @@ let my_last_name = 'Ali'
 // This is a concatenation
 let my_full_name = my_first_name + ' ' + my_last_name
 
+
+
+
+
+
