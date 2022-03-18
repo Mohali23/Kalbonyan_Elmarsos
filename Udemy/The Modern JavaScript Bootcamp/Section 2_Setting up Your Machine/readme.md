@@ -63,3 +63,7 @@ console.log('Hello World!')
 // For run the Javascript code on the terminal using node.js
 node hello_world.js
 ```
+
+### Example
+
+![](example)
