@@ -52,9 +52,16 @@ cd ../../
 
 ## Hello javascript 
 
-In this video I learned the first code in javascipt, this is 
+In this video I learned the first code in javascipt
 
-```bash
-// This code for print the result on terminal
+```js
+// This code for printing the result on the terminal
 console.log('Hello World!')
-````
+```
+
+### For run javascrip code on the terminal
+
+```sh
+// For run the Javascript code on the terminal using node.js
+node hello_world.js
+```
