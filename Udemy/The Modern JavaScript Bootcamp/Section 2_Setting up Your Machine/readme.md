@@ -66,4 +66,4 @@ node hello_world.js
 
 ### Example
 
-![](example)
+![The is example for terminal](example.png)
