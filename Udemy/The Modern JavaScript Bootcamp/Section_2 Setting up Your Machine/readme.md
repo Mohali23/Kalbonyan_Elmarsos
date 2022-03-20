@@ -24,7 +24,7 @@ Node js allows us to run JavaScript files on our machine.
 
 Cmder is Console Emulator for Windows
 
-
+## 4- Introduction to the Terminal
 ### I also learned in this section some terminal orders 
 
 ```bash
