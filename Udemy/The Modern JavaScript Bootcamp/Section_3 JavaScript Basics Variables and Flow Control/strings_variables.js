@@ -3,7 +3,7 @@
  ******************/
 
  /**
-  * What is the variables?
+  * What are the variables?
   * Variables are used to store information to be referenced and manipulated,
   * They also provide a way of labeling data with a descriptive name, so our programs can be understood more clearly
   * It is helpful to think of variables as containers that hold information. 
@@ -16,7 +16,7 @@
   */
 
   /**
-  * let => is the keyword for creating variable
+  * let => It is the keyword for creating variable
   * age => is a name for the variable
   * (=) => we use a single equal sign to assign value to the variable 
   * 35  => this is a variable value
