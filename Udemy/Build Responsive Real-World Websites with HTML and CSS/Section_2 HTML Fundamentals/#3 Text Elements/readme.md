@@ -43,7 +43,7 @@ This tag is for adding any text paragraph to our page.
 
 ## #3 How to format text
 
-For text formats like bold text or italic text, let's do this
+For text formats like bold text or italic text.
 
 ### 1- Bold text
 
