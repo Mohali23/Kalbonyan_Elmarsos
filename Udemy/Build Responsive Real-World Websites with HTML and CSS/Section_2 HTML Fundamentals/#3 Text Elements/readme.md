@@ -15,7 +15,15 @@ We start with the first element, Its Heading tags, this tag contains 6 sizes, I 
 ```
 
 These tags use only for the address of articles or the main headers of pages on the website only.
-NOTE >> Do not use it to make large or small texts
+NOTE >> Do not use it to make large or small texts, and for best use don't use the `<h1>` more than one time.
+
+---
+
+**NOTE**
+
+Do not use it to make large or small texts, and for best use don't use the `<h1>` more than one time.
+
+---
 
 ## Result
 
