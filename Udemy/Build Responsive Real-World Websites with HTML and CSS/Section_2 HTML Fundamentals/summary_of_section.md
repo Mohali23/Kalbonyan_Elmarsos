@@ -23,4 +23,4 @@ What is HTML ?
 | This is a pragraph tag | Content of the element, in this example text. But it might be another element (child element) |
 | < /p > | this is calld (Closing Tag or Endig Tag) Same as opening tag, but with a ( / ), When element has no content, it’s omitted |
 
-NOTE >> Some elements have no content (e.g. <img>)
+NOTE >> Some elements have no content (e.g. < img >)
