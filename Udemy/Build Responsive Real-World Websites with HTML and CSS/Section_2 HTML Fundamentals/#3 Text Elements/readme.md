@@ -1,8 +1,8 @@
 # Summary of Text Elements lecture
 
-In this lecture, Jonas Schmedtmann has explained all Tags related to texts in HTML.\
+In this lecture, Jonas Schmedtmann has explained all Tags related to texts in HTML.
 
-## Heading Tags
+## #1 Heading Tags
 
 We start with the first element, Its Heading tags, this tag contains 6 sizes, I will explaine below.
 
