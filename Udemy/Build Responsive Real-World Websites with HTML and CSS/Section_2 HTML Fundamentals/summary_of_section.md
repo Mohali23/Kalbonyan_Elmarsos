@@ -49,7 +49,7 @@ After creating an HTML file, this file must be added the main tags
   <body>
     <!-- h1 tag this tag for heading, the content text between this tag will be visible only on our website -->
     <h1>Hello World!</h1>
-    <!-- this is a closing tag for body tag </hi> -->
+    <!-- this is a closing tag for h1 tag </h1> -->
   </body>
   <!-- this is a closing tag for body tag </body> -->
 </html>
