@@ -22,4 +22,21 @@ NOTE >> Do not use it to make large or small texts, and for best use don't use t
 
 ## Result
 
-![this is all tgs for headign](image.png)
+![this is all tgs for headign](image1.png)
+
+## #2 Paragraph Tags
+
+This tag is for adding any text paragraph to our page.
+
+```html
+<p>This is a paragraph</p>
+<p>
+  Lorem markdownum; dare risi Iolciacos ferit, ausam ille, enim tubicen veteris
+  quidem, bracchia et. Bracchia cuius, **dat erubui in** nec vix investigata
+  postibus terram honoratas, ferox creavit barbarus maxima plura supplex, in.
+</p>
+```
+
+## Result
+
+![this is all tgs for headign](image2.png)
