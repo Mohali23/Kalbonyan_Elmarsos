@@ -86,4 +86,4 @@ In these ways, the result is the same
 
 ## ![](image3.png)
 
-> **_NOTE:_**
+> **_NOTE:_** The most common use of bold tag and italic tag, We use bold tag `<strong>` and italic tag `<em>` because these tags are the semantic HTML, will know more info about semantic HTML in the next sections
