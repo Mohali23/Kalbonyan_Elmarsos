@@ -20,8 +20,8 @@ What is HTML ?
 
 | Syntax                 | Description                                                                                                               |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| `<p>`                  | Name of the element, wrapped in < > this is calld (Opening Tag or Starting Tag)                                           |
+| `html <p>`             | Name of the element, wrapped in < > this is calld (Opening Tag or Starting Tag)                                           |
 | This is a pragraph tag | Content of the element, in this example text. But it might be another element (child element)                             |
-| `</p>`                 | this is calld (Closing Tag or Endig Tag) Same as opening tag, but with a ( / ), When element has no content, it’s omitted |
+| `html </p>`            | this is calld (Closing Tag or Endig Tag) Same as opening tag, but with a ( / ), When element has no content, it’s omitted |
 
 NOTE >> Some elements have no content (e.g. `<img>`)
