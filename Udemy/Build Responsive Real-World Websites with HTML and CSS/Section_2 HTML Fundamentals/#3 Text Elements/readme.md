@@ -16,4 +16,4 @@ These tags use only for the address of articles or the main headers of pages on 
 
 ## Result
 
-[this is all tgs for headign](image.png)
+![this is all tgs for headign](image.png)
