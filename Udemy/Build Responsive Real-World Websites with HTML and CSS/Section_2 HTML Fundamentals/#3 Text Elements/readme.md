@@ -22,9 +22,9 @@ NOTE >> Do not use it to make large or small texts, and for best use don't use t
 
 ## Result
 
-![this is all tgs for headign](image1.png)
+![](image1.png)
 
-## #2 Paragraph Tags
+## #2 Paragraph Tag
 
 This tag is for adding any text paragraph to our page.
 
@@ -39,4 +39,51 @@ This tag is for adding any text paragraph to our page.
 
 ## Result
 
-![this is all tgs for headign](image2.png)
+![](image2.png)
+
+## #3 How to format text
+
+For text formats like bold text or italic text, let's do this
+
+### 1- Bold text
+
+We have two ways to do this in HTML.\
+First way can use `<b></b>` tag
+
+```html
+<p>This is a <b>paragraph</b></p>
+```
+
+or
+
+Second way can use `<strong></strong>` tag
+
+```html
+<p>This is a <strong>paragraph</strong></p>
+```
+
+In these ways, the result is the same
+
+### 2- Italic text
+
+We have two ways to make text is Italic in HTML.\
+First way can use `<i></i>` tag
+
+```html
+<p>This is a <i>paragraph</i></p>
+```
+
+or
+
+Second way can use `<em></em>` tag.\
+em >> shorthand for "Emphasize".
+
+```html
+<p>This is a <em>paragraph</em></p>
+```
+
+In these ways, the result is the same
+
+## ![](image3.png)
+
+> **_NOTE:_**
