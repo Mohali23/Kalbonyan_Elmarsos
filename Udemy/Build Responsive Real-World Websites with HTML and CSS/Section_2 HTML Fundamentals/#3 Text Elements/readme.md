@@ -14,7 +14,7 @@ We start with the first element, Its Heading tags, this tag contains 6 sizes, I 
 <h6>This is heading</h6>
 ```
 
-These tags use only for the address of articles or the main headers of pages on the website only.\
+These tags use only for the address of articles or the main headers of pages on the website only.
 NOTE >> Do not use it to make large or small texts
 
 ## Result

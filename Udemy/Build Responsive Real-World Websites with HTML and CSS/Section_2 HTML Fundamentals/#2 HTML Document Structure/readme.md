@@ -1,6 +1,6 @@
 # Summary of HTML Document Structure lecture
 
-To create an HTML file you must give an extension (.html), For the browsers know it is an HTML file\
+To create an HTML file you must give an extension (.html), For the browsers know it is an HTML file.\
 After creating an HTML file, this file must be added the main tags
 
 ```html
