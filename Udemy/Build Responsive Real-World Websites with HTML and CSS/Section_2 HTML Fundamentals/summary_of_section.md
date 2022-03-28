@@ -1,6 +1,6 @@
 # Summary of section
 
-## Introduction to HTML
+## 1- Introduction to HTML
 
 What is HTML ?
 
