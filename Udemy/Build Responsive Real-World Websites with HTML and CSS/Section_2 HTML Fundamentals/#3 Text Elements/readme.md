@@ -3,7 +3,7 @@
 In this lecture, Jonas Schmedtmann has explained all Tags related to texts in HTML.
 We start with the first element, Its Heading tags, this tag contains 6 sizes, I will explaine below.
 
-```
+```html
 <h1>This is heading</h1>
 <h2>This is heading</h2>
 <h3>This is heading</h3>
