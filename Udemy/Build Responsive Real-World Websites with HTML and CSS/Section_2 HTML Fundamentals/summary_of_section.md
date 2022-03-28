@@ -55,3 +55,7 @@ After creating an HTML file, this file must be added the main tags
 </html>
 <!-- this is a closing tag for HTML tag </html> -->
 ```
+
+### Result
+
+![The is Result](result.png)
