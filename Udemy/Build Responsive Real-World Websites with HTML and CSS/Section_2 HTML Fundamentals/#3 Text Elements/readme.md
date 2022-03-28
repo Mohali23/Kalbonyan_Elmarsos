@@ -1,8 +1,9 @@
 # Summary of Text Elements lecture
 
+In this lecture, Jonas Schmedtmann has explained all Tags related to texts in HTML.\
+
 ## Heading Tags
 
-In this lecture, Jonas Schmedtmann has explained all Tags related to texts in HTML.\
 We start with the first element, Its Heading tags, this tag contains 6 sizes, I will explaine below.
 
 ```html
@@ -17,7 +18,7 @@ We start with the first element, Its Heading tags, this tag contains 6 sizes, I 
 These tags use only for the address of articles or the main headers of pages on the website only.
 NOTE >> Do not use it to make large or small texts, and for best use don't use the `<h1>` more than one time.
 
-> **_NOTE:_** Don't use it to make large or small texts, and for best use don't use the `<h1>` more than one time.
+> **_NOTE:_** Don't use it to make large or small texts, and for best use don't use the `<h1>` more than one time in your page.
 
 ## Result
 
