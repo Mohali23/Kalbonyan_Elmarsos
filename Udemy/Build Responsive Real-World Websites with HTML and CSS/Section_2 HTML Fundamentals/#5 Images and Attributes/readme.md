@@ -15,7 +15,7 @@ The `<img>` tag has two required attributes:
 
 ## Explain attributes
 
-`src` => This attribute for the image path Which we need to embed in our HTML page Its shorthand for source
+`src` => This attribute for the image path Which we need to embed in our HTML page Its shorthand for source\
 'alt' => This attribute for alternative text we use this attribute for when the image is not loaded for any reason, and the search engine use to improve (Seo), Another reason for the persons who use a screen reader
 
 ### Result
