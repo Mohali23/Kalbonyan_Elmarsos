@@ -26,11 +26,12 @@ unordered list — used to group a set of related items in no particular order.
 ## 2- Unordered list
 
 ```html
-<h1></h1>
+<h1>The most important programming languages</h1>
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
   <li>Javascript</li>
+  <li>Python</li>
+  <li>PHP</li>
+  <li>c++</li>
 </ul>
 ```
 
