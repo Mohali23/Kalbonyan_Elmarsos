@@ -16,7 +16,7 @@ unordered list — used to group a set of related items in no particular order.
 
 ## Explain Tags
 
-`<ol></ol>` => Is shorthand for Ordered List
+`<ol></ol>` => Is shorthand for Ordered List\
 `<li></li>` => Is shorthand for List Item
 
 ### Result
@@ -37,7 +37,7 @@ unordered list — used to group a set of related items in no particular order.
 
 ## Explain Tags
 
-`<ul></ul>` => Is shorthand for Unordered List
+`<ul></ul>` => Is shorthand for Unordered List\
 `<li></li>` => Is shorthand for List Item
 
 ### Result
