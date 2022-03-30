@@ -22,4 +22,4 @@ The `<img>` tag has two required attributes:
 
 ![](images/logo.jpg)
 
-> **_NOTE:_** The `<img>` tag does not have a closing tag you can use the self-close like this `<img>`
+> **_NOTE:_** The `<img>` tag does not have a closing tag you can use the self-close like this `<img />`
