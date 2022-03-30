@@ -24,4 +24,4 @@ The target attribute has more than value but the most important value is
 - (\_blank) - Opens the document in a new window or tab
 - (\_self) - Default. Opens the document in the same window/tab as it was clicked
 
-The text inside the tag is visible in the browser and takes the color
+The text inside the tag is visible in the browser and takes the blue color
