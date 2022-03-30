@@ -22,7 +22,7 @@ NOTE >> Do not use it to make large or small texts, and for best use don't use t
 
 ## Result
 
-![](image1.png)
+![](images/image1.png)
 
 ## #2 Paragraph Tag
 
@@ -39,7 +39,7 @@ This tag is for adding any text paragraph to our page.
 
 ## Result
 
-![](image2.png)
+![](images/image2.png)
 
 ## #3 How to format text
 
@@ -84,6 +84,6 @@ em >> shorthand for "Emphasize".
 
 In these ways, the result is the same
 
-## ![](image3.png)
+![](images/image3.png)
 
 > **_NOTE:_** The most common use of bold tag and italic tag, We use bold tag `<strong>` and italic tag `<em>` because these tags are the semantic HTML, will know more info about semantic HTML in the next sections
