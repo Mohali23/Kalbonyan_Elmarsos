@@ -12,6 +12,9 @@ The `<a>` tag has two required attributes:
 
 ```html
 <a href="https://www.google.com" target="_blank">Go to google</a>
+<a href="about.html" target="_blank">Go to about page</a>
+<a href="blug.html" target="_blank">Go to blug page</a>
+<a href="contact.html" target="_blank">Go contact page</a>
 ```
 
 ## Explain tag and attribute
@@ -25,3 +28,7 @@ The target attribute has more than value but the most important value is
 - (\_self) - Default. Opens the document in the same window/tab as it was clicked
 
 The text inside the tag is visible in the browser and takes the blue color
+
+### Result
+
+![](images/image1.png)
