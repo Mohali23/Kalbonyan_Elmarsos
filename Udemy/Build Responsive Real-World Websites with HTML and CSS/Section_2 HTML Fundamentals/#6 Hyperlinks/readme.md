@@ -17,7 +17,7 @@ The `<a>` tag has two required attributes:
 ## Explain tag and attribute
 
 `<a>` => The shorthand of tag is Anchor\
-`href` => The attribute for defining the URL we need to go It, the shorthand for this attribute is hyper reference.\
+`href` => The attribute for defining the URL we need to go It or any page in our website, the shorthand for this attribute is hyper reference.\
 `target` => attribute specifies where to open the linked document.\
 The target attribute has more than value but the most important value is
 
