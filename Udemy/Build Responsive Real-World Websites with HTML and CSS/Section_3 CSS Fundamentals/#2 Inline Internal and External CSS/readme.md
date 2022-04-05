@@ -2,14 +2,16 @@
 
 There are three places where we can write CSS, we call them inline CSS, internal CSS, and external CSS.
 
-**1- Inline CSS**
+## 1- Inline CSS
+
 Can write CSS code directly in HTML tag by using the property (style)
 
 ```html
 <h1 style="color: red;">Hello World!</h1>
 ```
 
-**2- Internal CSS**
+## 2- Internal CSS
+
 Also can write CSS code in a `<style></style>` tag in `<head>` tag.
 
 ```html
@@ -22,7 +24,8 @@ Also can write CSS code in a `<style></style>` tag in `<head>` tag.
 </head>
 ```
 
-**2- External CSS**
+## 2- External CSS
+
 The last way can write CSS code in an external file, This is the best way and the most using.
 By using a `<link>` tag in the `<head>` tag.
 
