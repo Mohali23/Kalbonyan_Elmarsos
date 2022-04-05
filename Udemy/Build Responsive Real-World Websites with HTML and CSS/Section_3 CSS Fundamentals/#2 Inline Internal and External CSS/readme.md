@@ -38,9 +38,9 @@ By using a `<link>` tag in the `<head>` tag.
 Let me explne this tag\
 in the `<link>` tag we have two attributes, They are `href` and `rel`
 
-`href` we used this attribute before with the `<a href="URL">` tag, Also this attribute does the same thing, but the different thing is we set the path file not the URL
+- `href` we used this attribute before with the `<a href="URL">` tag, Also this attribute does the same thing, but the different thing is we set the path file not the URL
 
-`rel` This attribute is shorthand for a relationship, the relationship between the external file and the HTML document, in our case, the relationship here is a stylesheet
+- `rel` This attribute is shorthand for a relationship, the relationship between the external file and the HTML document, in our case, the relationship here is a stylesheet
 
 > **_NOTE:_** The extension file should be ( `.css` )
 
