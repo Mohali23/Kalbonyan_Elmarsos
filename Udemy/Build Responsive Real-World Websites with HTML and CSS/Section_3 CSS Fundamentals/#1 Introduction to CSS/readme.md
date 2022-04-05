@@ -24,3 +24,9 @@ p {
 - **Properties:** These are ways in which you can style an HTML element. (In this example, `color` is a property of the `<p>` elements.) In CSS, you choose which properties you want to affect in the rule.
 
 - **Property value:** To the right of the property—after the colon—there is the property value. This chooses one out of many possible appearances for a given property. (For example, there are many `color` values in addition to `red`.)
+
+## Note the other important parts of the syntax
+
+- Apart from the selector, each ruleset must be wrapped in curly braces. (`{}`)
+- Within each declaration, you must use a colon (`:`) to separate the property from its value or values.
+- Within each ruleset, you must use a semicolon (`;`) to separate each declaration from the next one.
