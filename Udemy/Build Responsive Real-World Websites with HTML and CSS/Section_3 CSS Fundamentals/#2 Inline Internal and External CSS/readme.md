@@ -36,7 +36,7 @@ By using a `<link>` tag in the `<head>` tag.
 ```
 
 Let me explne this tag\
-in the `<link>` tag we have two attributes
+in the `<link>` tag we have two attributes, They are `href` and `rel`
 
 `href` we used this attribute before with the `<a href="URL">` tag, Also this attribute does the same thing, but the different thing is we set the path file not the URL
 
