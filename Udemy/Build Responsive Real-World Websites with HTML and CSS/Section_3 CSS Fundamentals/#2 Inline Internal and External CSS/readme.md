@@ -44,6 +44,6 @@ in the `<link>` tag we have two attributes, They are `href` and `rel`
 
 > **_NOTE:_** The extension file should be ( `.css` )
 
-The result is the same in all ways
+## The result is the same in all ways
 
 ![The result](images/result.png)
