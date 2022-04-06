@@ -4,15 +4,22 @@ For styling the text in your HTML page can use the next properties in CSS
 
 ```css
 h1 {
-  font-size: 20px;
+  font-size: 30px;
   font-family: sans-serif;
   text-transform: uppercase;
-  text-align: center;
 }
 
 p {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 25px;
+}
+
+ul {
+  font-family: sans-serif;
   font-style: bold;
   line-height: 1.5;
+  font-size: 20px;
 }
 ```
 
@@ -24,3 +31,7 @@ p {
 - `text-align` This property for text-align, to center or right or left
 - `font-style` This property for makes text styles like bold or italic
 - `line-height` This property for controls the space between lines of text
+
+## Result
+
+![Result](images/result.png)
