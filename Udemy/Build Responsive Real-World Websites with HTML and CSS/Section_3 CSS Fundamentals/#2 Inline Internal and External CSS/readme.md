@@ -42,7 +42,7 @@ in the `<link>` tag we have two attributes, They are `href` and `rel`
 
 - `rel` This attribute is shorthand for a relationship, the relationship between the external file and the HTML document, in our case, the relationship here is a stylesheet
 
-> **_NOTE:_** The extension file should be ( `.css` )
+> **_NOTE:_** The file extension should be ( `.css` )
 
 ## The result is the same in all ways
 
