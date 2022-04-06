@@ -12,14 +12,15 @@ h1 {
 p {
   font-family: sans-serif;
   text-align: center;
-  font-size: 25px;
+  font-size: 18px;
 }
 
-ul {
+li {
   font-family: sans-serif;
   font-style: bold;
   line-height: 1.5;
-  font-size: 20px;
+  font-size: 18px;
+  text-transform: uppercase;
 }
 ```
 
