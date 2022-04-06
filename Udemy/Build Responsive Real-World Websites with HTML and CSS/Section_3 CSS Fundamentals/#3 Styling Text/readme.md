@@ -32,6 +32,8 @@ ul {
 - `font-style` This property for makes text styles like bold or italic
 - `line-height` This property for controls the space between lines of text
 
+> **_NOTE_:** When you use the `font-family` property, don't use any of the types of fonts that exist on your computer because when we publish the online website does not display the font that exists on your computer because simply not all users have the same type of font on their computers
+
 ## Result
 
 ![Result](images/result.png)
