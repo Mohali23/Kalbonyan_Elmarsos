@@ -17,7 +17,7 @@ li {
 
 ## Nested selectors
 
-In the above example, we gave the `p` selector more than of styles, But these styles work with all `p` on our page, for fixe this issue, we use the nested selector
+In the above example, we gave the `p` selector more than of style, But these styles work with all `p` on our page, for fixe this issue, we use the nested selector
 
 ```css
 article p {
