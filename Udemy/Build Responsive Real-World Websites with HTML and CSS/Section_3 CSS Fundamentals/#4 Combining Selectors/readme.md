@@ -31,4 +31,4 @@ footer p {
 }
 ```
 
-In this case we are more specific, the `p` selector nested in the article is not like the `p` selector nested in the footer, each one has a different styles
+In this case we are more specific, the `p` selector nested in the `article` is not like the `p` selector nested in the `footer`, each one has a different styles
