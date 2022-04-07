@@ -1,6 +1,6 @@
 # Working With Colors
 
-**How to use colors in css?**
+**How to use colors in css?**\
 There are a number of different ways we can define a colour in css.
 There are currently four css properties that accept a colour as a value **color**, **background-color**, **border-color**, and **outline-color**. For each of these properties, the colour value can be any of the following
 
