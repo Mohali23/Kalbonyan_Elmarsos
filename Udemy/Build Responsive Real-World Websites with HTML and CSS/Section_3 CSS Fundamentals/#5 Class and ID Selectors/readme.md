@@ -1,4 +1,4 @@
-# Class and ID selectors in CSS
+# Class and ID selectors
 
 In CSS, `class` and `id` selectors are used to identify various HTML elements. The main benefit of setting class or ID is that you can present the same HTML element differently, depending on its `class` or `id`.
 
