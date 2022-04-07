@@ -4,7 +4,7 @@
 There are a number of different ways we can define a colour in css.
 There are currently four css properties that accept a colour as a value **color**, **background-color**, **border-color**, and **outline-color**. For each of these properties, the colour value can be any of the following
 
-- A named keyword, e.g. `green`
+- A named keyword, e.g. `red`
 - An rgb or rgba unit, e.g. `rgb(255, 0, 0)`, `rgba(255, 0, 0, 0.5)`
 - A Hexadecimal, e.g. `#ff0000`
 
