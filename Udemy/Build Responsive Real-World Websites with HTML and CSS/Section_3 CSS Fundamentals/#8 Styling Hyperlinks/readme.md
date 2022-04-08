@@ -47,7 +47,7 @@ The `:active` selector is used to select and style the active link.
 
 ```css
 a:active {
-  color: red;
+  color: green;
 }
 ```
 
