@@ -14,4 +14,4 @@ We have three ways
 
 ## Result
 
-![DevTools](devtools.png)
+![DevTools](devTools.png)
