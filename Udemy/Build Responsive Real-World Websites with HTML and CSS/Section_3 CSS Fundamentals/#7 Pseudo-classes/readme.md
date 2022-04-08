@@ -72,4 +72,4 @@ li:nth-child(odd) {
 
 ![result](images/result5.png)
 
-> **_TIP_:** There are more pseudo-classes elements are not just those
+> **_TIP_:** There are more pseudo-classes in CSS are not just those
