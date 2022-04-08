@@ -9,7 +9,7 @@ Web development tools allow developers to work with a variety of web technologie
 We have three ways
 
 - 1- By the keyboard you can click on `Ctrl + Shift + i`
-- 2- By pressing the right mouse key then choosing the inspect from the list
+- 2- By pressing the right mouse key then choosing the `inspect` from the list
 - 3- By pressing a `F12` key from the keyboard
 
 ## Result
