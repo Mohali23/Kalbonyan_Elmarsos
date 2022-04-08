@@ -2,10 +2,10 @@
 
 There are four Pseudo-classes for styling Hyperlinks:
 
-`:link` Unvisited links
-`:visited` Visited links
-`:active` Currently interacting with it, like a click
-`:hover` Mouse hover over it
+- `:link` Unvisited links
+- `:visited` Visited links
+- `:active` Currently interacting with it, like a click
+- `:hover` Mouse hover over it
 
 ## :link
 
