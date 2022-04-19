@@ -7,4 +7,4 @@ The CSS box model is a container that contains multiple properties including bor
 - Border Area: It is the area between the box’s padding and margin. Its dimensions are given by the width and height of the border.
 - Margin Area: This area consists of space between border and margin. The dimensions of the Margin area are the margin-box width and the margin-box height. It i\* useful to separate the element from its neighbors.
 
-![CSS Box model](result.png)
+![CSS Box model](box_model.png)
