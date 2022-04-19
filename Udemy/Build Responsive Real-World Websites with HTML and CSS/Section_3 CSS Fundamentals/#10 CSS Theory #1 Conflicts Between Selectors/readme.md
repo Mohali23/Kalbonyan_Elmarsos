@@ -37,4 +37,4 @@ The `!important` rule in CSS is used to add more importance to a property/value 
 
 In fact, if you use the `!important` rule, it will override ALL previous styling rules for that specific property on that element!
 
-> **_Note_**: **Never use** `!important` avoid The `!important` declaration overrides normal declarations, but is unstructured and rarely required in style sheet.”
+> **_Note_**: **Never use** `!important` declaration overrides normal declarations, but is unstructured and rarely required in style sheet.”
