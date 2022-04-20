@@ -1,3 +1,6 @@
+# Structuring our Page
+
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -56,3 +59,8 @@
     <footer>copyrghit &copy; Kalbonyan Elmarsos 2022</footer>
   </body>
 </html>
+```
+
+### Result
+
+![](images/result.png)
